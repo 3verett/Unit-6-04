@@ -17,11 +17,11 @@ function solve () {
 
   thirdNumber = document.getElementById('height').value
 
-  firstNumber= parseInt (firstNumber)
+  firstNumber = parseInt(firstNumber)
 
-  secondNumber= parseInt (secondNumber)
+  secondNumber = parseInt(secondNumber)
 
-  thirdNumber= parseInt (thirdNumber)
+  thirdNumber = parseInt(thirdNumber)
 
   avgBase = (firstNumber + secondNumber) / 2
 
